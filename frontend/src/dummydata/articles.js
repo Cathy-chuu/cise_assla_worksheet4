@@ -49,5 +49,14 @@ const articles = [
       claim: "code quality improvement", 
       evidence: "weak against",
     },
+    {
+      _id: "5",
+      title: "Are Cats and Dogs Colourblind?",
+      authors: "Ada McVean B.SC",
+      source: "Office Science and Scociety",
+      pubyear: "2018",
+      doi: "https://www.mcgill.ca/oss/article/you-asked/are-cats-and-dogs-colourblind",
+      evidence: "strong support"
+    },
   ];
     module.exports = articles;
